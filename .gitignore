@@ -1,0 +1,23 @@
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Cache y compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales (si usas alguno)
+.venv/
+venv/
+env/
+
+# Configuración local de VS Code (opcional, algunos prefieren subirla)
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
